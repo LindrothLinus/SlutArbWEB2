@@ -1,0 +1,30 @@
+body{
+    background-color: #505354;
+}
+
+
+h1{
+    color: cyan;
+}
+
+button{
+    background-color: greenyellow;
+}
+
+main>div>h1{
+    color: white;
+}
+
+main {
+    width: 100%;
+
+}
+
+img{
+    width: 50vh;
+    height: 50vh;
+}
+
+
+
+
